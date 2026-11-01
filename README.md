@@ -36,9 +36,9 @@ java ItemCost
 ### Testing
 Each program should be tested with sample inputs to confirm that it produces the expected results.
 
-Week 2: Development Environment and First Java Program
+### Week 2: Development Environment and First Java Program
 
-Student Information
+### Student Information
 
 * Name: Chiege Sochikanyima Conrad
 * Matriculation Number: 25/17827
@@ -46,15 +46,15 @@ Student Information
 * Course: COS 201
 * Week: 2
 
-Practical Title
+### Practical Title
 
 Development Environment and First Java Program
 
-Objective
+### Objective
 
 To configure the Java development environment, write a simple Java program, compile it, execute it and submit the source code through GitHub.
 
-Tools Used
+### Tools Used
 
 * Java Development Kit (JDK)
 * Visual Studio Code
@@ -62,16 +62,16 @@ Tools Used
 * GitHub Desktop
 * GitHub
 
-Files
+### Files
 
 * week02/HelloWorld.java: Java source code for the practical.
 
-How to Run
+### How to Run
 
 1. Open a terminal in the week02 directory.
 2. Compile the program using javac HelloWorld.java.
 3. Run the program using java HelloWorld.
 
-Learning Outcome
+### Learning Outcome
 
 I practised creating, compiling and running a Java program and submitting source code through GitHub.
